@@ -65,6 +65,6 @@ def collect_post_from_the_website(url,output_fldr):
     df.to_csv(output_fldr+"Instagram_data_post.csv",index=False)
 #    return df
                  
-#output_fldr = "/home/anjalidharmik/puma/Instagram/output2/"
-#url = "https://www.instagram.com/photoshop"
+#output_fldr = "/home/anjalidharmik/Instagram/output2/"
+#url = "https://www.instagram.com/anjali"
 #collect_post_from_the_website(output_fldr,url)
